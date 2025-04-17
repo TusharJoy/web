@@ -327,7 +327,7 @@ const downloadResume = () => {
           <div class="card bg-base-100 shadow-xl">
             <div class="card-body">
               <div class="flex flex-wrap justify-between items-start gap-4">
-                <div>
+  <div>
                   <h3 class="card-title">
                     Software Engineer at SIGMA SOLUTIONS
                   </h3>
